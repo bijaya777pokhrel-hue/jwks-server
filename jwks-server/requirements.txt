@@ -1,0 +1,4 @@
+pyjwt
+cryptography
+coverage
+flake8
